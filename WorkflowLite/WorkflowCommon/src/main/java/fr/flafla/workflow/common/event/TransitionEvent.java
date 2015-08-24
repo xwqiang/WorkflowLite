@@ -12,5 +12,4 @@ public class TransitionEvent<T> {
 		this.transition = transition;
 		this.action = action;
 	}
-
 }
